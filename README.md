@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0056-merge-intervals) |
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
 | [3639-minimum-time-to-activate-string](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3639-minimum-time-to-activate-string) |
 ## Hash Table
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
