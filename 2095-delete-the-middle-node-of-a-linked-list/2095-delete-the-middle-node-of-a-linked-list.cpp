@@ -22,7 +22,10 @@ public:
         }
         //now our slow->next represent node to be deleted
         ListNode* temp=slow->next;
+       
         slow->next=slow->next->next;
+
+         delete(temp);
 
 
 
