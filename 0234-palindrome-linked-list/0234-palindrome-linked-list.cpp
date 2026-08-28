@@ -10,23 +10,52 @@
  */
 class Solution {
 public:
-    bool isPalindrome(ListNode* head) {
-        stack<int> st;
-        ListNode* temp=head;
-        while(temp){
-            st.push(temp->val);
-            temp=temp->next;
+    ListNode* reverse(ListNode* head){
+        //lets know that 
+        ListNode * prev=nullptr;
+        ListNode* curr=head;
+        ListNode* next=curr->next;
+        if(!next){
+            return curr;
+        }
+        while(next){
+            next=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=next;
         }
 
-        temp=head;
-        while(temp){
-            if(temp->val != st.top()){
+        return prev;
+    }
+    bool isPalindrome(ListNode* head) {
+        //now we have to find last node of first half
+        ListNode* slow=head;
+        ListNode* fast=head;
+        if(head->next==nullptr){
+            //that's mean 
+            return true;
+        }
+        while(fast->next!=nullptr && fast->next->next!=nullptr){
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        //slow->next represent next part starting node
+        ListNode* first=head;
+        ListNode* second=reverse(slow->next);
+
+        
+
+        //now we should start our iteration over second node
+        while(second){
+            if(first->val != second->val){
+                reverse(slow->next);
                 return false;
             }
-            temp=temp->next;
-            st.pop();
+            first=first->next;
+            second=second->next;
         }
 
         return true;
+
     }
 };
