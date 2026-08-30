@@ -10,10 +10,10 @@ public:
         }
         int i=0;
         int j=1;
-        while(i<n){
+        while(i<n-3){
              int constant1=nums[i];
             j=i+1;
-            while(j<n){
+            while(j<n-2){
                 int constant2=nums[j];
                
                 //now we have selected two element
