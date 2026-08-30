@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0148-sort-list) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0148-sort-list) |
