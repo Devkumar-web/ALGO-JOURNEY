@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0242-valid-anagram) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
