@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0205-isomorphic-strings) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
