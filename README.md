@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0802-find-eventual-safe-states) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -154,18 +155,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0802-find-eventual-safe-states) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
