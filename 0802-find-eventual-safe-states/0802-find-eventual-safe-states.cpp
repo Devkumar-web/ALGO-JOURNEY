@@ -62,7 +62,7 @@ bool dfs(vector<vector<int>> &graph,vector<int> &visited,vector<int> &pathvisite
 
         for(int i=0;i<v;i++){
 
-            if(check[i]==1){
+            if(pathvisited[i]==0){
                 result.push_back(i);
             }
 
