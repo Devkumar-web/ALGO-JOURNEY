@@ -1,7 +1,8 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        priority_queue<pair<int,char> > pq;
+        
+        priority_queue<pair<int,char>> pq;
         unordered_map<char,int> mp;
         for(auto it:s){
             mp[it]++;
