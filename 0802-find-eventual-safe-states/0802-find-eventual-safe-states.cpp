@@ -4,7 +4,7 @@ public:
 bool dfs(vector<vector<int>> &graph,vector<int> &visited,vector<int> &pathvisited,int node,vector<int> &check){
     visited[node]=1;
     pathvisited[node]=1;
-    check[node]=0;
+    //check[node]=0;
 
     for(auto it:graph[node]){
 
@@ -23,14 +23,14 @@ bool dfs(vector<vector<int>> &graph,vector<int> &visited,vector<int> &pathvisite
         else if(pathvisited[it]==1){
             //that's mean we encountered cycle 
             //we should come back without making backtrack
-            check[node]=0;
+            //check[node]=0;
             return true;
         }
 
 
     }
 
-    check[node]=1;
+    //check[node]=1;
     pathvisited[node]=0;
 
     return false;
