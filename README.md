@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
 | [0775-global-and-local-inversions](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0775-global-and-local-inversions) |
+| [0860-lemonade-change](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0860-lemonade-change) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3639-minimum-time-to-activate-string](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3639-minimum-time-to-activate-string) |
@@ -191,4 +192,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
