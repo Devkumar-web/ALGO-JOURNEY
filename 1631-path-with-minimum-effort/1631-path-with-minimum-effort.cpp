@@ -25,11 +25,13 @@ public:
                      if(crow==row-1 && ccol==col-1){
                         return sofar;
                      }
-
+        if (sofar > effort[crow][ccol]) continue;
 
             for(int i=0;i<4;i++){
                 int nrow=crow+delrow[i];
                 int ncol=ccol+delcol[i];
+
+               
 
                 if(nrow>=0 && ncol>=0 && nrow<row && ncol<col){
                     //now we are at valid position
