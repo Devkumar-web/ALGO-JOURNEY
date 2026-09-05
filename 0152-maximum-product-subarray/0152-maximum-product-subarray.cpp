@@ -30,7 +30,7 @@ public:
            
         }
 
-        return ans;
+        return (int)ans;
        
     }
 };
