@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0162-find-peak-element) |
 | [0455-assign-cookies](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0455-assign-cookies) |
@@ -209,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1631-path-with-minimum-effort) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
