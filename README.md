@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0234-palindrome-linked-list) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0402-remove-k-digits) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
