@@ -5,16 +5,18 @@ public:
         int n=s.size();
 
         for(int i=0;i<n;i++){
-            unordered_map<char,int> mp;
-            for(int j=i;j<n;j++){
-                mp[s[j]]++;
+            int freq[26]={0};
+        for(int j=i;j<n;j++){
+                
+                freq[s[j]-'a']++;
 
                 long long maxi=INT_MIN;
                 long long mini=INT_MAX;
                 
-                for(auto it:mp){
-                     maxi=max(maxi,(long long)it.second);
-                     mini=min(mini,(long long)it.second);
+                for(auto it:freq){
+                    if(it==0) continue;
+                     maxi=max(maxi,(long long)it);
+                     mini=min(mini,(long long)it);
                 }
 
                 sum+=(maxi-mini);
