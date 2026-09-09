@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0402-remove-k-digits) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2104-sum-of-subarray-ranges) |
+| [2390-removing-stars-from-a-string](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2390-removing-stars-from-a-string](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0239-sliding-window-maximum) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
