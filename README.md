@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0402-remove-k-digits) |
 | [0946-validate-stack-sequences](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0946-validate-stack-sequences) |
@@ -280,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2390-removing-stars-from-a-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
