@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1631-path-with-minimum-effort) |
 | [2104-sum-of-subarray-ranges](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2104-sum-of-subarray-ranges) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2454-next-greater-element-iv](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2454-next-greater-element-iv) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3639-minimum-time-to-activate-string](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3639-minimum-time-to-activate-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1631-path-with-minimum-effort](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1631-path-with-minimum-effort) |
+| [2454-next-greater-element-iv](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2454-next-greater-element-iv) |
 | [3639-minimum-time-to-activate-string](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3639-minimum-time-to-activate-string) |
 ## Divide and Conquer
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0769-max-chunks-to-make-sorted) |
+| [2454-next-greater-element-iv](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2454-next-greater-element-iv) |
 ## Quicksort
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2390-removing-stars-from-a-string) |
+| [2454-next-greater-element-iv](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2454-next-greater-element-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [1631-path-with-minimum-effort](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1631-path-with-minimum-effort) |
+| [2454-next-greater-element-iv](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2454-next-greater-element-iv) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -273,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0769-max-chunks-to-make-sorted) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1019-next-greater-node-in-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2104-sum-of-subarray-ranges) |
+| [2454-next-greater-element-iv](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2454-next-greater-element-iv) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
