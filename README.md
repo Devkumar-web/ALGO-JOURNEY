@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
+| [0649-dota2-senate](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0649-dota2-senate) |
 | [0796-rotate-string](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0455-assign-cookies) |
+| [0649-dota2-senate](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0649-dota2-senate) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0769-max-chunks-to-make-sorted) |
 | [0860-lemonade-change](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0860-lemonade-change) |
 ## Union-Find
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0649-dota2-senate) |
 ## Sliding Window
 |  |
 | ------- |
