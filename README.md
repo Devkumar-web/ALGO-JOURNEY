@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0402-remove-k-digits) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0802-find-eventual-safe-states) |
@@ -342,4 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2251-number-of-flowers-in-full-bloom) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
