@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0239-sliding-window-maximum) |
+| [0307-range-sum-query-mutable](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0307-range-sum-query-mutable) |
 | [0455-assign-cookies](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -73,14 +74,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0148-sort-list) |
+| [0307-range-sum-query-mutable](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Merge Sort
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0155-min-stack) |
+| [0307-range-sum-query-mutable](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0307-range-sum-query-mutable) |
 | [0901-online-stock-span](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0901-online-stock-span) |
 ## Enumeration
 |  |
@@ -389,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0543-diameter-of-binary-tree) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
