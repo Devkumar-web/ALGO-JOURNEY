@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0013-roman-to-integer) |
+| [0507-perfect-number](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0507-perfect-number) |
 | [0775-global-and-local-inversions](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0775-global-and-local-inversions) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
