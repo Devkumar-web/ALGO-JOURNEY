@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2104-sum-of-subarray-ranges) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2386-find-the-k-sum-of-an-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2454-next-greater-element-iv](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2454-next-greater-element-iv) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0769-max-chunks-to-make-sorted) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2386-find-the-k-sum-of-an-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2454-next-greater-element-iv](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2454-next-greater-element-iv) |
 ## Quicksort
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1631-path-with-minimum-effort](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1631-path-with-minimum-effort) |
+| [2386-find-the-k-sum-of-an-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2454-next-greater-element-iv](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2454-next-greater-element-iv) |
 ## Bucket Sort
 |  |
