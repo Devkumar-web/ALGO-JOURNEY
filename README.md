@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1019-next-greater-node-in-linked-list) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1395-count-number-of-teams](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1395-count-number-of-teams) |
 | [1631-path-with-minimum-effort](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1631-path-with-minimum-effort) |
 | [2104-sum-of-subarray-ranges](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2104-sum-of-subarray-ranges) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -89,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
+| [1395-count-number-of-teams](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1395-count-number-of-teams) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
+| [1395-count-number-of-teams](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1395-count-number-of-teams) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Merge Sort
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0152-maximum-product-subarray) |
+| [1395-count-number-of-teams](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1395-count-number-of-teams) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Bracket Sequences
 |  |
