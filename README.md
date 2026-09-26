@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0239-sliding-window-maximum) |
 | [0307-range-sum-query-mutable](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0455-assign-cookies](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0973-k-closest-points-to-origin) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2407-longest-increasing-subsequence-ii) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -272,10 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Depth-First Search
@@ -451,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0973-k-closest-points-to-origin) |
 ## Tournament Sort
 |  |
