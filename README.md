@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0775-global-and-local-inversions) |
 | [0860-lemonade-change](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0860-lemonade-change) |
 | [0946-validate-stack-sequences](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0946-validate-stack-sequences) |
+| [0973-k-closest-points-to-origin](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0973-k-closest-points-to-origin) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1019-next-greater-node-in-linked-list) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1395-count-number-of-teams](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1395-count-number-of-teams) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0973-k-closest-points-to-origin) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Binary Indexed Tree
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0769-max-chunks-to-make-sorted) |
+| [0973-k-closest-points-to-origin](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0973-k-closest-points-to-origin) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2454-next-greater-element-iv](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2454-next-greater-element-iv) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0013-roman-to-integer) |
 | [0507-perfect-number](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0507-perfect-number) |
 | [0775-global-and-local-inversions](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0775-global-and-local-inversions) |
+| [0973-k-closest-points-to-origin](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0973-k-closest-points-to-origin) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Bit Manipulation
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1631-path-with-minimum-effort) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2454-next-greater-element-iv](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2454-next-greater-element-iv) |
@@ -446,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0973-k-closest-points-to-origin) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -454,4 +460,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
