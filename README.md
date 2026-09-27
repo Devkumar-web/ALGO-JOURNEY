@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0455-assign-cookies) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0307-range-sum-query-mutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0901-online-stock-span) |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0901-online-stock-span) |
 ## Prefix Sum
