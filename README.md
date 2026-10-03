@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0455-assign-cookies](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0699-falling-squares](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0699-falling-squares) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0769-max-chunks-to-make-sorted) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3483-unique-3-digit-even-numbers) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0946-validate-stack-sequences) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1019-next-greater-node-in-linked-list) |
