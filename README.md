@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0455-assign-cookies](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0699-falling-squares) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0769-max-chunks-to-make-sorted) |
 | [0775-global-and-local-inversions](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0775-global-and-local-inversions) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0699-falling-squares) |
 | [1395-count-number-of-teams](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1395-count-number-of-teams) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2426-number-of-pairs-satisfying-inequality) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0699-falling-squares) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2426-number-of-pairs-satisfying-inequality) |
 ## Treap
