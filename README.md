@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0084-largest-rectangle-in-histogram) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0160-intersection-of-two-linked-lists) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0152-maximum-product-subarray) |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0402-remove-k-digits) |
