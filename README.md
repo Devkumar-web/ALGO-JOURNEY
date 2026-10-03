@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0699-falling-squares](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0699-falling-squares) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0769-max-chunks-to-make-sorted) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0946-validate-stack-sequences) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1019-next-greater-node-in-linked-list) |
