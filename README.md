@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0503-next-greater-element-ii) |
 | [0699-falling-squares](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0699-falling-squares) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0735-asteroid-collision](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0735-asteroid-collision) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0769-max-chunks-to-make-sorted) |
 | [0775-global-and-local-inversions](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0775-global-and-local-inversions) |
 | [0860-lemonade-change](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0860-lemonade-change) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0735-asteroid-collision) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0769-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0946-validate-stack-sequences) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2390-removing-stars-from-a-string) |
 ## Design
