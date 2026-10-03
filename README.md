@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2407-longest-increasing-subsequence-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2454-next-greater-element-iv](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2454-next-greater-element-iv) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3478-choose-k-elements-with-maximum-sum) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Stack
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2386-find-the-k-sum-of-an-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2386-find-the-k-sum-of-an-array) |
 | [2454-next-greater-element-iv](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2454-next-greater-element-iv) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Bucket Sort
 |  |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Design
 |  |
 | ------- |
