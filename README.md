@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1395-count-number-of-teams](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1395-count-number-of-teams) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0493-reverse-pairs) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1631-path-with-minimum-effort) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2179-count-good-triplets-in-an-array) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2251-number-of-flowers-in-full-bloom) |
