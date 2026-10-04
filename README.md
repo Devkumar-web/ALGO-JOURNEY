@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0069-sqrtx) |
 | [0507-perfect-number](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0507-perfect-number) |
 | [0775-global-and-local-inversions](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0775-global-and-local-inversions) |
 | [0973-k-closest-points-to-origin](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0973-k-closest-points-to-origin) |
@@ -566,4 +568,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
