@@ -20,7 +20,7 @@ public:
             count++;
         }
 
-        return count<=k;
+        return count <=k;
     }
     int splitArray(vector<int>& nums, int k) {
         long long low=*max_element(nums.begin(),nums.end());
