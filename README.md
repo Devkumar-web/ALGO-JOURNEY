@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0344-reverse-string) |
