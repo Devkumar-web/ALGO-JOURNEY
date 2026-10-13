@@ -7,11 +7,13 @@ public:
         for(int i=0;i<s.size();i++){
             //lets see what we can do
             if(s[i]=='('){
+                valid[i]=-1;
                 st.push({'(',i});
             }
             else if(s[i]==')'){
                 //that's mean we have to pop
                 if(!st.empty()){
+                    valid[st.top().second]=0;
                     st.pop();
                 }
                 else{
@@ -21,12 +23,12 @@ public:
                 
             }
         }
-        while(!st.empty()){
-            //now we need to mark all invalid
-            //lets see what we can do
-            valid[st.top().second]=-1;
-            st.pop();
-        }
+        // while(!st.empty()){
+        //     //now we need to mark all invalid
+        //     //lets see what we can do
+        //     valid[st.top().second]=-1;
+        //     st.pop();
+        // }
         for(int i=0;i<s.size();i++){
             if(valid[i]!=-1){
                 result.push_back(s[i]);
