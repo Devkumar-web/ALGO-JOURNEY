@@ -37,7 +37,8 @@ public:
                     }
 
                 }
-
+                //push all those who got freed
+                
                 if(!cooldown.empty() && currtime>=cooldown.top().first){
                     pq.push({mp[cooldown.top().second],cooldown.top().second});
                     cooldown.pop();
