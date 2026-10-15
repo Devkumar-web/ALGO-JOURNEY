@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0239-sliding-window-maximum) |
 | [0307-range-sum-query-mutable](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0410-split-array-largest-sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0410-split-array-largest-sum) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0322-coin-change) |
 | [0802-find-eventual-safe-states](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1631-path-with-minimum-effort) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0907-sum-of-subarray-minimums) |
 | [1395-count-number-of-teams](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1395-count-number-of-teams) |
@@ -614,4 +617,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
