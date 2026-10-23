@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2426-number-of-pairs-satisfying-inequality) |
 | [2454-next-greater-element-iv](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2454-next-greater-element-iv) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3478-choose-k-elements-with-maximum-sum) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0085-maximal-rectangle) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1631-path-with-minimum-effort) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1395-count-number-of-teams](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1395-count-number-of-teams) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2407-longest-increasing-subsequence-ii) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Bracket Sequences
 |  |
 | ------- |
