@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0218-the-skyline-problem) |
+| [0238-product-of-array-except-self](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0239-sliding-window-maximum) |
 | [0307-range-sum-query-mutable](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/0410-split-array-largest-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Devkumar-web/ALGO-JOURNEY/tree/master/2251-number-of-flowers-in-full-bloom) |
